@@ -16,7 +16,7 @@ class Ball {
 
     noStroke();
     ellipseMode(RADIUS);
-    fill("pink");
+    fill("red");
     ellipse(
       this.body.position.x,
       this.body.position.y,
